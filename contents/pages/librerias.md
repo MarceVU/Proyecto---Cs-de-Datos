@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Resultados
+title: Librerias utilizadas
 description: rellenar
 ---
 
 ## Rellenar
 
 
-[back](./)
+[Regresar](./)

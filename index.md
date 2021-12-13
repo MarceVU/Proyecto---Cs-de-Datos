@@ -1,10 +1,14 @@
 ---
 layout: default
+title: Proyecto - Influencia de diversos factores en rendimiento estudiantil
+description: Introducción a la Ciencia de Datos
 ---
 
 # Contexto
 
-La pandemia que hemos atravesado en los ultimos 2 años ha causado un cambio radical en la vida de los chilenos. Áreas como la educación se han visto seriamente afectadas, siendo el consensus general que el confinamiento ha ido en detrimento del aprendizaje. Es por ello que consideramos seria de utilidad, investigar los diversos factores que podrían estar afectando el rendimiento de los estudiantes a lo largo del país, poniendo enfasis en aquellos que se encuentran cursando la enseñanza media, pues en ellos deberia poder apreciarse de mejor manera la influencia de distintas variables, debido a la compleja etapa que se encuentran viviendo.
+La pandemia que hemos atravesado en los ultimos 2 años ha causado un cambio radical en la vida de los chilenos. Áreas como la educación se han visto seriamente afectadas, siendo el consensus general que el confinamiento ha ido en detrimento del aprendizaje. 
+
+Es por ello que consideramos seria de utilidad, investigar los diversos factores que podrían estar afectando el rendimiento de los estudiantes a lo largo del país, poniendo enfasis en aquellos que se encuentran cursando la enseñanza media, pues en ellos deberia poder apreciarse de mejor manera la influencia de distintas variables, debido a la compleja etapa que se encuentran viviendo.
 
 ## Objetivos
 
@@ -26,13 +30,17 @@ A través de este estudio se busca dar respuesta a las siguientes preguntas:
 
 ## Metodología
 
-Los [datos utilizados](./datos-utilizados.html) fueron recopilados de fuentes oficiales del gobierno.
+Los [datos utilizados](content/pages/datos-utilizados.md) fueron recopilados de fuentes oficiales del gobierno.
 
-El procesamiento, limpieza y análisis de los datos fue llevado a cabo utilizando [una serie de librerias](./librerias.html) del lenguaje de programación Python, dedicadas al procesamiento y representación gráfica de información. El código y los resultados fueron organizados en un Jupyter Notebook.
+El procesamiento, limpieza y análisis de los datos fue llevado a cabo utilizando [una serie de librerias](content/pages/librerias.md) del lenguaje de programación Python, dedicadas al procesamiento y representación gráfica de información. El código y los resultados fueron organizados en un Jupyter Notebook.
 
-[Conceptos claves](./conceptos-clave.html)
+[Conceptos claves](content/pages/conceptos-clave.md)
 
 * * *
+
+# Resultados
+
+[Enlace a los resultados](content/pages/resultados.md)
 
 ## Integrantes del grupo:
 *  Item one
