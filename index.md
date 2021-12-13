@@ -30,11 +30,11 @@ A través de este estudio se busca dar respuesta a las siguientes preguntas:
 
 ## Metodología
 
-Los [datos utilizados](content/pages/datos-utilizados.md) fueron recopilados de fuentes oficiales del gobierno.
+Los [datos utilizados](content/pages/datos_utilizados.md) fueron recopilados de fuentes oficiales del gobierno.
 
 El procesamiento, limpieza y análisis de los datos fue llevado a cabo utilizando [una serie de librerias](content/pages/librerias.md) del lenguaje de programación Python, dedicadas al procesamiento y representación gráfica de información. El código y los resultados fueron organizados en un Jupyter Notebook.
 
-[Conceptos claves](content/pages/conceptos-clave.md)
+[Conceptos claves](content/pages/conceptos_clave.md)
 
 * * *
 
