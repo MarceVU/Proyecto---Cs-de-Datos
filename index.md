@@ -24,7 +24,7 @@ A través de este estudio se busca dar respuesta a las siguientes preguntas:
 1.  ¿Se puede decir que hay una relación lineal dichas variables?
 1.  ¿Se puede afirmar que el acceso a internet y los ingresos económicos influyen en el rendimiento de los estudiantes
 1.  ¿Existe alguna conexión además entre el acceso a internet y los ingresos económicos?
-1.  ¿Se puede predecir el desempeño del próximo año a partir de lo observado? De ser así, ¿cómo sería?
+1.  ¿Se puede predecir el desempeño del próximo año a partir de lo observado?
 
 * * *
 
@@ -34,7 +34,7 @@ Los [datos utilizados](content/pages/datos_utilizados.md) fueron recopilados de 
 
 El procesamiento, limpieza y análisis de los datos fue llevado a cabo utilizando [una serie de librerias](content/pages/librerias.md) del lenguaje de programación Python, dedicadas al procesamiento y representación gráfica de información. El código y los resultados fueron organizados en un Jupyter Notebook.
 
-[Conceptos claves](content/pages/conceptos_clave.md)
+Se utilizaron algoritmos y modelos de clustering y regresión para encontrar relaciones entre variables y asi poder predecir el rendimiento de los estudiantes. Para visualizar el procesamiento de los datos se utilizaron una serie de gráficos.
 
 * * *
 

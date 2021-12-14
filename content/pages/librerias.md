@@ -1,10 +1,14 @@
 ---
 layout: default
 title: Librerias utilizadas
-description: rellenar
 ---
 
-## Rellenar
+Para la realización de este proyecto se utilizaron las librerias especificadas a continuación:
+
+*  Pandas
+*  Numpy
+*  Matplotlib
+*  Seaborn
+*  Sklearn
 
 
-[Regresar](./)
